@@ -2,7 +2,7 @@
   "name": "express",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "start": "ts-node-dev index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "devDependencies": {
     "@types/express": "^5.0.3",
     "@types/node": "^24.5.2",
